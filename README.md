@@ -126,12 +126,14 @@ The dataset used for this project is:
 
 # 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+| Technology           | Purpose                                         |
+|----------------------|-------------------------------------------------|
+| **Python**           | Core programming and analysis                   |
+| **Pandas**           | Data loading, cleaning, grouping and aggregation|
+| **NumPy**            | Numerical calculations and feature engineering |
+| **Matplotlib**       | Data visualization                              |
+| **Seaborn**          | Statistical visualization and correlation heatmap |
+| **Jupyter Notebook** | Interactive development and documentation      |
 
 ## Python Libraries
 
