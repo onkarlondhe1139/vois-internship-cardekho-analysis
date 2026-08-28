@@ -61,6 +61,26 @@ The main objectives of this project are:
 - Present the findings using charts and PowerPoint
 
 ---
+### 🔑 Key Business Insights
+
+- 📊 The cleaned dataset contains **299 records** and **98 unique car names**.
+- ✅ The supplied dataset contains **0 missing values**.
+- 🔄 **2 exact duplicate rows** were identified before data cleaning.
+- 💰 The **average selling price is 4.59**, while the **median selling price is 3.51**.
+- 🛣️ The **average kilometers driven is approximately 36,917**, with a **median of 32,000 km**.
+- 📈 Selling Price has a **strong positive correlation of 0.876** with Present Price.
+- 📅 Selling Price has a **0.234 correlation** with Manufacturing Year, indicating a positive but relatively weak relationship.
+- 🛣️ Selling Price has only a **0.029 correlation** with Kilometers Driven, indicating a **very weak linear relationship**.
+- ⛽ **Diesel** is the fuel category with the **highest average selling price** in this dataset.
+- ⚙️ **Automatic** is the transmission category with the **higher average selling price**.
+- 🏪 **Dealer** is the seller category with the **higher average selling price**.
+
+### 📌 Business Interpretation
+
+> The analysis suggests that **Present Price is the strongest numerical indicator associated with Selling Price**, while Kilometers Driven has a very weak linear relationship with selling price. Vehicle category characteristics such as **fuel type, transmission, and seller type** also show noticeable differences in average selling prices.
+
+> **Note:** Correlation indicates association and does not prove causation. Category-level price differences may also be influenced by vehicle model, age, and the composition of the dataset.
+---
 
 # 📊 Dataset
 
